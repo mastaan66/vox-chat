@@ -1,0 +1,28 @@
+{
+  "name": "voxchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastaan66/vox-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mastaan66/vox-chat/issues"
+  },
+  "homepage": "https://github.com/mastaan66/vox-chat#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "crypto": "^1.0.1",
+    "dialogflow": "^1.2.0",
+    "express": "^4.21.1",
+    "socket.io": "^4.8.0",
+    "uuid": "^10.0.0"
+  }
+}
